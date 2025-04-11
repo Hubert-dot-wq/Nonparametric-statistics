@@ -1,0 +1,5 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# .idea - 'Local changes before pull'
+.idea/
